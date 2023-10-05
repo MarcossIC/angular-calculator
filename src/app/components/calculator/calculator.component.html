@@ -1,0 +1,11 @@
+<section class="bg-gray-900 border-2 border-gray-900 shadow-2xl rounded-lg">
+    <calculator-display [currentOperand]="currentNumber" [previousOperand]="expresion"></calculator-display>
+    
+    <div class="p-6 grid grid-cols-5 gap-5">
+        <calculator-button *ngFor="let setting of buttonsSetting.settings" 
+        [text]="setting.value" [styleButton]="setting.styles" (click)="setting.action()" 
+        [ngClass]="{'col-span-3': setting.value === 'AC', 'col-span-2': setting.value === '='}" >
+        </calculator-button>
+    </div>
+
+</section>
