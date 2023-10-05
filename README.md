@@ -1,4 +1,6 @@
-# Calculator
+# Angular Calculator
+
+Este proyecto se realizo con el proposito de poner en practica lo aprendido con angular y la intencion de poner apruea mis conocimientos en type script
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
 
