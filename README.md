@@ -1,29 +1,24 @@
 # Angular Calculator
 
-Este proyecto se realizo con el proposito de poner en practica lo aprendido con angular y la intencion de poner apruea mis conocimientos en type script
-
+## :sparkles: Introduction
+This project was carried out with the purpose of putting into practice what I learned by researching and reading about Angular and the intention of putting my knowledge in type script to the test.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
 
-## Development server
+## 🛠 Stack
+The project was developed in Angular 16 with the technologies of:
+<p align="left"> 
+   <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular,ts,tailwind,html"/> </a>
+</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## ℹ️ Development server
+In order to deploy a local version of the project you must:
+- Download the project from github
+- Run `npm install` at the root of the project
+- Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
+The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
+## ℹ️ Build
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## :muscle: Project Status
+The project helped me put into practice and better understand the concepts of Angular, but I don't think I will continue developing it because I already liked the result I got with the calculator.
